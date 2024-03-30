@@ -12,5 +12,5 @@ sphinx:
 #
 #
 python:
-  instal:
+  install:
   -requirement: requirement.txt
